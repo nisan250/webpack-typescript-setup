@@ -1,0 +1,30 @@
+/* $purple: #854585;
+
+body {
+  background-color: red;
+}
+
+html {
+  body {
+    background-color: $purple;
+  }
+} */
+
+/* input::placeholder {
+  color: blue !important;
+} */
+
+/*
+:fullscreen  {
+  background: #854585;
+} */
+
+/* @media (min-resolution: 2dppx) {
+  img {
+    width: 50px;
+  }
+} */
+
+button {
+  background-color: salmon;
+}

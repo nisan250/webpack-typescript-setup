@@ -1,0 +1,14 @@
+$primary: teal;
+$danger: purple;
+@import "~bootstrap/scss/bootstrap";
+
+
+body {
+
+  .wrapper {
+    box-shadow: 10px 10px 10px $primary;
+    width: 500px;
+  }
+}
+
+
